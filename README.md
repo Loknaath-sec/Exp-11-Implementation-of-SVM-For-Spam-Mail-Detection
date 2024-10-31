@@ -73,12 +73,16 @@ accuracy
 ```
 
 ## Output:
+
 ### Head Function
 ![image](https://github.com/user-attachments/assets/7ede2cca-127d-42fc-9243-d13c4446a737)
+
 ### Data Information
 ![image](https://github.com/user-attachments/assets/d4bc7796-2ed8-44ab-a628-9a64488e0c58)
+
 ### Y-Predict
 ![image](https://github.com/user-attachments/assets/dba44c43-6a45-48cc-8cc8-fce359218d70)
+
 ### Accuracy
 ![image](https://github.com/user-attachments/assets/3f080592-62fa-49e8-b5ce-aa17aefd8161)
 
