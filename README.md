@@ -9,13 +9,21 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 Step 1. Start the Program.
+
 Step 2. Import the necessary packages.
+
 Step 3. Read the given csv file and display the few contents of the data.
+
 Step 4. Assign the features for x and y respectively.
+
 Step 5. Split the x and y sets into train and test sets.
+
 Step 6. Convert the Alphabetical data to numeric using CountVectorizer.
+
 Step 7. Predict the number of spam in the data using SVC (C-Support Vector Classification) method of SVM (Support vector machine) in sklearn library.
+
 Step 8. Find the accuracy of the model.
+
 Step 9. End the Program.
 
 ## Program:
